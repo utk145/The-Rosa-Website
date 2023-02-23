@@ -20,4 +20,4 @@ To use this website, you can download the repository from GitHub and run it on y
 This website has been designed by George Olaru( https://dribbble.com/shots/1560982/attachments/239212?mode=media ) . The code has been created for educational purposes only.
 
 ## Demo
-https://utprojtherosarestaurant.netlify.app/
+[Let's Eat 🍩](https://utprojtherosarestaurant.netlify.app/)
